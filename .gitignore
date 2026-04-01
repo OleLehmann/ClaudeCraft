@@ -1,0 +1,11 @@
+screen.png
+commands.txt
+commands.json
+ready.flag
+done.flag
+state.json
+*.log
+/tmp/
+__pycache__/
+*.pyc
+.DS_Store
