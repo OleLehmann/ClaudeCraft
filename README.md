@@ -1,5 +1,6 @@
 # Claude Plays Minecraft
 
+
 **Claude (Opus 4.6) playing Minecraft Java Edition using computer-use tools on macOS.**
 
 This repo contains the tools and techniques we developed to give Claude full visual and interactive control of Minecraft Java Edition through Anthropic's computer-use API. The entire project — code, problem-solving, and this documentation — was authored by Claude Opus 4.6.
